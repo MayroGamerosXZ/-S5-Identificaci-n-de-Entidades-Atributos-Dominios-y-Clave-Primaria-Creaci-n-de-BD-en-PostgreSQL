@@ -110,5 +110,10 @@ SELECT * FROM Concesionario;
 SELECT * FROM Lote_Importacion;
 SELECT * FROM Vehiculo;
 
-3. Uso
-Para usar este proyecto, simplemente copia y pega el código completo en una consola de PostgreSQL o un cliente como DBeaver, pgAdmin, o cualquier otro de tu preferencia.
+3. 🚀 Cómo usar
+
+Copiar el script en un archivo llamado concesionarios.sql.
+
+Ejecutarlo en PostgreSQL, MySQL o el gestor de BD compatible.
+
+Verificar las tablas y registros con los comandos SELECT.
